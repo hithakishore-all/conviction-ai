@@ -2,6 +2,8 @@
 
 # Conviction AI
 
+![Demo](docs/conviction-ai-demo.gif)
+
 **From identifying market opportunities to evidence-backed investment decisions.**
 
 Conviction AI is an investment-intelligence workspace for venture capital and private equity teams. It follows one deal from "which market is inflecting?" to "should we take this to investment committee?", and at every step it shows where each number came from. When a company's pitch deck says one thing and its own data says another, the app keeps both values side by side, recomputes the metric from source rows, drafts the question for the CFO and holds the deal back from IC until a person resolves it.
