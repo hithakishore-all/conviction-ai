@@ -1,4 +1,5 @@
-> **▶ Live demo:** https://hithakishore-all.github.io/conviction-ai/ (runs in your browser, synthetic data)
+> **▶ Live demo:** https://hithakishore-all.github.io/conviction-ai/ (runs in your browser, synthetic data)  
+> **🎬 Full walkthrough video:** https://www.loom.com/share/427af746c17e42399474bbfe055c6cf6
 
 # Conviction AI
 
